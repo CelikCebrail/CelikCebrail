@@ -1,5 +1,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Hi there! 👋 I'm [Cebrail Celik]
+# Hi there! 👋 I'm Cebrail Celik
 
 I'm a passionate Full Stack Developer with expertise in building modern and user-centric web applications using React.js. I also enjoy crafting mobile applications using React Native and creating robust and scalable APIs with Node.js and Express.js on the back-end.
 
