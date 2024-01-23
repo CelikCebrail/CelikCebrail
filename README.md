@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer with expertise in building modern and user
 
 - [LinkedIn]([www.linkedin.com/in/cebrail-c-4b1809113](https://www.linkedin.com/in/cebrail-c-4b1809113/))
 - [Portfolio Website](https://www.yourportfoliowebsite.com)
-- Email: [email@email.com](mailto:cebrail.celik@gmail.com)
+- Email: [email@email.com](cebrail.celik@gmail.com)
 
 ## Let's Collaborate!
 
