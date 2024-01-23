@@ -1,83 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi there! 👋 I'm [Your Full Name]
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Adınız Soyadınız] - Full Stack Developer</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+I'm a passionate Full Stack Developer with expertise in building modern and user-centric web applications using React.js. I also enjoy crafting mobile applications using React Native and creating robust and scalable APIs with Node.js and Express.js on the back-end.
 
-        h1 {
-            color: #0366d6;
-        }
+## Skills
 
-        p {
-            margin-bottom: 15px;
-        }
+- **Front-End:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Mobile:** React Native
+- **Back-End:** Node.js, Express.js, MongoDB, RESTful APIs
 
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
+## Tools and Technologies
 
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
+- Git, GitHub, Visual Studio Code, Firebase, Heroku, GraphQL
 
-<body>
-    <header>
-        <h1>Hello! I'm [Your Full Name]</h1>
-    </header>
+## Projects
 
-    <section>
-        <p>
-            I'm a passionate Full Stack Developer with expertise in building modern and user-centric web applications
-            using React.js. I also enjoy crafting mobile applications using React Native and creating robust and
-            scalable APIs with Node.js and Express.js on the back-end.
-        </p>
+Here are some of my notable projects:
 
-        <p>
-            <strong>Skills:</strong>
-            <br>
-            Front-End: React.js, HTML5, CSS3, JavaScript (ES6+)
-            <br>
-            Mobile: React Native
-            <br>
-            Back-End: Node.js, Express.js, MongoDB, RESTful APIs
-        </p>
+1. [Project Name 1](link-to-repo): Brief description of the project.
 
-        <p>
-            <strong>Tools and Technologies:</strong>
-            <br>
-            Git, GitHub, Visual Studio Code, Firebase, Heroku, GraphQL
-        </p>
+2. [Project Name 2](link-to-repo): Brief description of the project.
 
-        <p>
-            <strong>Connect with me:</strong>
-            <br>
-            LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">linkedin.com/in/yourlinkedinprofile</a>
-            <br>
-            Portfolio Website: <a href="https://www.yourportfoliowebsite.com" target="_blank">yourportfoliowebsite.com</a>
-        </p>
+3. [Project Name 3](link-to-repo): Brief description of the project.
 
-        <p>
-            <strong>Contact:</strong>
-            <br>
-            Feel free to reach out for collaboration or just to say hi at <a href="mailto:email@email.com">email@email.com</a>!
-        </p>
+Feel free to explore my repositories for more!
 
-        <p>
-            I'm always excited to learn new technologies and contribute to the web world, combining my passion for coding
-            with creativity. Let's build something amazing together!
-        </p>
-    </section>
-</body>
+## Connect with Me
 
-</html>
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [Portfolio Website](https://www.yourportfoliowebsite.com)
+- Email: [email@email.com](mailto:email@email.com)
+
+## Let's Collaborate!
+
+I'm always open to collaboration and excited to work on new projects. Whether you have an idea in mind or just want to connect, feel free to reach out.
+
+Happy coding! 🚀
