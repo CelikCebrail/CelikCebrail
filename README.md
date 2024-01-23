@@ -1,18 +1,83 @@
-# 💫 About Me:
-<br>As a React Front-End Developer, my passion is creating user-friendly and impressive web applications. One of my favorite things is meeting modern technologies and working solution-oriented on projects. I always enjoy collaborating on new projects and meeting new people.
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Adınız Soyadınız] - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
 
-## 🌐 Socials:
+        h1 {
+            color: #0366d6;
+        }
 
+        p {
+            margin-bottom: 15px;
+        }
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=celikcebrail&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=celikcebrail&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=celikcebrail&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
 
----
-[![](https://visitcount.itsvg.in/api?id=celikcebrail&icon=2&color=1)](https://visitcount.itsvg.in)
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<body>
+    <header>
+        <h1>Hello! I'm [Your Full Name]</h1>
+    </header>
+
+    <section>
+        <p>
+            I'm a passionate Full Stack Developer with expertise in building modern and user-centric web applications
+            using React.js. I also enjoy crafting mobile applications using React Native and creating robust and
+            scalable APIs with Node.js and Express.js on the back-end.
+        </p>
+
+        <p>
+            <strong>Skills:</strong>
+            <br>
+            Front-End: React.js, HTML5, CSS3, JavaScript (ES6+)
+            <br>
+            Mobile: React Native
+            <br>
+            Back-End: Node.js, Express.js, MongoDB, RESTful APIs
+        </p>
+
+        <p>
+            <strong>Tools and Technologies:</strong>
+            <br>
+            Git, GitHub, Visual Studio Code, Firebase, Heroku, GraphQL
+        </p>
+
+        <p>
+            <strong>Connect with me:</strong>
+            <br>
+            LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">linkedin.com/in/yourlinkedinprofile</a>
+            <br>
+            Portfolio Website: <a href="https://www.yourportfoliowebsite.com" target="_blank">yourportfoliowebsite.com</a>
+        </p>
+
+        <p>
+            <strong>Contact:</strong>
+            <br>
+            Feel free to reach out for collaboration or just to say hi at <a href="mailto:email@email.com">email@email.com</a>!
+        </p>
+
+        <p>
+            I'm always excited to learn new technologies and contribute to the web world, combining my passion for coding
+            with creativity. Let's build something amazing together!
+        </p>
+    </section>
+</body>
+
+</html>
